@@ -1,2 +1,2 @@
 # vvtorkov
-https://www.kaggle.com/vvtorkov
+[globalneural](https://www.kaggle.com/vvtorkov)
